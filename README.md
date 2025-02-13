@@ -7,8 +7,8 @@
 - 🔭 Currently working on **RShiny Apps & Tableau Dashboards**  
 - 🌱 Learning **Advanced SQL, Deep Learning, and Cloud Computing**  
 - 👯 Looking to collaborate on **AI-driven projects & Open Source Contributions**  
-- 📫 Reach me at **[Your Email]**  
-- 🌐 Portfolio: **[Your Website/Portfolio Link]**  
+- 📫 Reach me at **[Rishabjn195@gmail.com]**  
+- 🌐 Portfolio: **[(https://rishabjn.netlify.app/)]**  
 
 ---
 

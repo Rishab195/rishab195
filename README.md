@@ -38,4 +38,4 @@
 ### **📫 Connect with Me**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rishabhjn195/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/Rishab195)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=web)]([Your Portfolio Link](https://rishabjn.netlify.app/))  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=web)](https://rishabjn.netlify.app/)  

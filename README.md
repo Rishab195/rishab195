@@ -27,7 +27,7 @@
 ---
 
 ### **🏆 Featured Projects**  
-🔥 **[Amazon Shipping Analytics Dashboard](Your Repo Link)**  
+🔥 **[Amazon Shipping Analytics Dashboard](https://github.com/Rishab195/Tableau)**  
 🔹 Tableau dashboard for visualizing shipping trends & delivery performance  
 
 📊 **[Interactive Data Analysis App](Your Repo Link)**  

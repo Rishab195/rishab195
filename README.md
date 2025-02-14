@@ -30,7 +30,7 @@
 🔥 **[Amazon Shipping Analytics Dashboard](https://github.com/Rishab195/Tableau)**  
 🔹 Tableau dashboard for visualizing shipping trends & delivery performance  
 
-📊 **[Interactive Data Analysis App]((https://github.com/Rishab195/Predictive-usingR))**  
+📊 **[Interactive Data Analysis App](https://github.com/Rishab195/Predictive-usingR)**  
 🔹 Built using RShiny for dynamic dataset exploration  
 
 ---
